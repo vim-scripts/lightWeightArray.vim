@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=109
+
+I have improved this script and uploaded as a new script called multvals.vim. Please download it from here:
+
+http://vim.sourceforge.net/scripts/script.php?script_id=171
+
+This defines two readonly functions to work with ',' separated multivalues such as "tags". You can also use it as a light-weight array operations. You can make up an array by concatenating a set of values with a ',' in between them and later use these functions to extract the individual values. 
